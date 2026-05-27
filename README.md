@@ -63,5 +63,5 @@ Além de programar, possuo uma sólida bagagem prática em **Infraestrutura de T
 
 ### 📫 Vamos nos conectar?
 
-*   **LinkedIn:** [linkedin.com/in/pedro-picelli](https://linkedin.com/in/pedro-picelli)
+*   **LinkedIn:** [Pedropicelli7](https://www.linkedin.com/in/pedropicelli/)
 *   **E-mail:** [pedropicelli80@gmail.com](mailto:pedropicelli80@gmail.com)

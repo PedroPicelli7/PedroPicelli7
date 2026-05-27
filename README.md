@@ -56,7 +56,7 @@ Além de programar, possuo uma sólida bagagem prática em **Infraestrutura de T
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedropicelli7&theme=dark" alt="GitHub Streak Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropicelli7&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=pedropicelli7&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas" />
 </p>
 
 ---

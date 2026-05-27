@@ -55,8 +55,8 @@ Além de programar, possuo uma sólida bagagem prática em **Infraestrutura de T
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPicelli7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPicelli7&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropicelli7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropicelli7&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
